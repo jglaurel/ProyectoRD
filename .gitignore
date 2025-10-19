@@ -3,4 +3,5 @@ echo "__pycache__/
 *.ipynb_checkpoints
 .env
 data/
-.vscode/" > .gitignore
+.vscode/" > 
+.gitignore
