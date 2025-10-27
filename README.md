@@ -11,7 +11,7 @@ Cómo reproducir el proyecto
 
 1. Clonar el repositorio
 
-   git clone [<URL_DEL_REPOSITORIO>](https://github.com/jglaurel/ProyectoRD.git)
+   git clone https://github.com/jglaurel/ProyectoRD.git
 
 
 2. Abrir el proyecto en Visual Studio Code
