@@ -1,12 +1,10 @@
-🏡 Bienes Raíces - Mercado Australiano - Predicción de Precios - Regresión Avanzada
-
 Integrantes
 * ISRAEL ROSENDO SALINAS RAMIREZ
 * JOSE GUSTAVO LAUREL COSSIO
 * FRANZ ERICK MOLLERICONA PATTY
 
 --------------------------------------------------------------------------------
-Cómo reproducir el proyecto
+Cómo reproducir los proyectos
 --------------------------------------------------------------------------------
 
 1. Clonar el repositorio
@@ -44,5 +42,17 @@ Cómo reproducir el proyecto
    - Verifica versiones y dependencias antes de ejecutar para garantizar reproducibilidad.
 
 --------------------------------------------------------------------------------
-Fin del documento
+
+## Proyecto 1
+### 🏡 Bienes Raíces - Mercado Australiano - Predicción de Precios - Regresión Avanzada
+Se encuentra en la carpeta llamada Proyecto 1
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+## Proyecto 1
+### 🏡 NLP - Clasificacion Automatica de Tickets
+Se encuentra en la carpeta llamada Proyecto 2
+
 --------------------------------------------------------------------------------
