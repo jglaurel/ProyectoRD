@@ -51,7 +51,7 @@ Se encuentra en la carpeta llamada Proyecto 1
 
 --------------------------------------------------------------------------------
 
-## Proyecto 1
+## Proyecto 2
 ### 🏡 NLP - Clasificacion Automatica de Tickets
 Se encuentra en la carpeta llamada Proyecto 2
 
